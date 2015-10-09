@@ -90,7 +90,7 @@ of the SD card received in step 2. as an argument. You need to this with `sudo`:
 
 If you are prompted with a warning like this at the beginning
 
-![warning](https://drive.google.com/uc?export=view&id=0B2xXhdpvuHcGLUpTRWdFOWVVOHM
+![warning](https://drive.google.com/uc?export=view&id=0B2xXhdpvuHcGLUpTRWdFOWVVOHM)
 
 simply click it away by hitting *Ignore*.
 
@@ -154,7 +154,7 @@ and give the location of the USB flash drive received in step 2. as an argument.
 
 If you are prompted again with a warning like this at the beginning
 
-![warning](https://drive.google.com/uc?export=view&id=0B2xXhdpvuHcGLUpTRWdFOWVVOHM
+![warning](https://drive.google.com/uc?export=view&id=0B2xXhdpvuHcGLUpTRWdFOWVVOHM)
 
 simply click it away by hitting *Ignore*.
 
