@@ -1,5 +1,7 @@
 # raspberrypi_images
 
+##THIS IS WIP - the USB image is not included at the moment!
+
 ## Introduction
 
 This repositories contains scripts for flashing a SD card and an USB flash drive for the usage with a
